@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Goutham%20Potu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Goutham%20Potu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -16,13 +16,17 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Data+Science+Enthusiast;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Science+Enthusiast;Full-Stack+Curious+%26+Data-Driven;Building+Real+Products%2C+Not+Just+Models" alt="Typing SVG"/>
+
+<br/>
+
+<p><i>Fresher with a builder's mindset — I combine AI/ML thinking with practical software engineering to ship things that work, not just models that score well in a notebook.</i></p>
 
 </div>
 
 <br/>
 
-## 📌 About Me
+## About Me
 
 ```yaml
 name: Goutham Potu
@@ -30,58 +34,47 @@ role: AI/ML Engineer & Data Scientist
 status: Fresher — actively seeking opportunities
 location: India
 focus:
-  - Machine Learning & Deep Learning
-  - Data Analysis & Visualization
-  - Building end-to-end AI-powered applications
-mindset: "Curious by nature, disciplined by practice."
-fun_fact: "I train models by day and debug them in my dreams."
+  - Machine Learning & Data Science
+  - End-to-end product building (frontend + backend)
+  - Turning data and ideas into deployable applications
+mindset: "Learn deeply. Build often. Ship honestly."
 ```
 
-- 🎓 Fresher with strong fundamentals in **AI/ML, Data Science & Python**
-- 🔍 Passionate about solving real-world problems using data-driven approaches
-- 🚀 Currently building projects that blend **ML models with practical applications**
-- 🌱 Open to **Full-time roles, Internships & Collaborations**
+- Fresher with strong fundamentals in **AI/ML, Data Science, and full-stack development**
+- Enjoys taking an idea from raw data or a rough sketch to a **working, deployed product**
+- Comfortable across the stack — from training a model to building the UI that serves it
+- Currently exploring **System Design** and **Agentic AI** to build smarter, scalable systems
+- Open to **Full-time roles, Internships, and Collaborations**
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,mysql,git,github,vscode,postman&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql,r&theme=dark" />
+</div>
 
-<br/><br/>
+<div align="center">
 
-**AI / ML / Data Science**
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" />
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats, Streak & Top Languages
+## GitHub Stats, Streak & Top Languages
 
 <div align="center">
 
@@ -96,58 +89,108 @@ fun_fact: "I train models by day and debug them in my dreams."
 
 <br/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthampotu&theme=redical&hide_border=true&area=true" width="100%"/>
 
-<!-- Snake contribution animation (auto-generates via GitHub Action) -->
+<!-- Snake contribution animation — requires the Platane/snk GitHub Action set up on the gouthampotu/gouthampotu repo -->
 <img src="https://raw.githubusercontent.com/gouthampotu/gouthampotu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/gouthampotu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouthampotu&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true" />
+### 🔹 Project One
+
+Short, punchy description of what this project does and the problem it solves — replace with your real project summary.
+
+**Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/gouthampotu/REPLACE_REPO_1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/gouthampotu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouthampotu&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true" />
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/gouthampotu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouthampotu&repo=REPLACE_WITH_REPO_3&theme=radical&hide_border=true" />
+</td>
+<td width="33%" valign="top">
+
+### 🔹 Project Two
+
+Short, punchy description of what this project does and the problem it solves — replace with your real project summary.
+
+**Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/gouthampotu/REPLACE_REPO_2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/gouthampotu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouthampotu&repo=REPLACE_WITH_REPO_4&theme=radical&hide_border=true" />
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-> 💡 *Replace `REPLACE_WITH_REPO_X` with your actual repository names to auto-generate pinned project cards.*
+### 🔹 Project Three
+
+Short, punchy description of what this project does and the problem it solves — replace with your real project summary.
+
+**Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<br/><br/>
+
+<a href="https://github.com/gouthampotu/REPLACE_REPO_3">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> Replace `REPLACE_REPO_1/2/3`, the descriptions, tech badges, and Live Demo links with your actual project details.
 
 <br/>
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20(AWS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-4B8BBE?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 🏆 Achievement Badges
+## Achievement Badges
 
 <div align="center">
 
@@ -157,17 +200,30 @@ fun_fact: "I train models by day and debug them in my dreams."
 
 <br/>
 
-## 📫 Contact Section
+## Contact Section
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [gouthampotu05@gmail.com](mailto:gouthampotu05@gmail.com) |
-| 💼 LinkedIn | [goutham-potu-90a6b0287](https://www.linkedin.com/in/goutham-potu-90a6b0287) |
-| 💻 GitHub | [@gouthampotu](https://github.com/gouthampotu) |
+<a href="https://github.com/gouthampotu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/goutham-potu-90a6b0287">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:gouthampotu05@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Open to:** Full-time AI/ML roles · Internships · Research Collaborations · Freelance Data Science Projects
+<br/><br/>
+
+**Open to:** Full-time AI/ML & Software roles · Internships · Research Collaborations · Freelance Projects
+
+<br/>
+
+> *Replace the Portfolio badge link (`#`) with your actual portfolio URL once it's live.*
 
 </div>
 
@@ -175,7 +231,7 @@ fun_fact: "I train models by day and debug them in my dreams."
 
 <div align="center">
 
-### 💭 "Data is the new oil, but insight is the refinery."
+### "Data is the new oil, but insight is the refinery."
 
 <br/>
 
