@@ -33,11 +33,13 @@ Machine Learning, Deep Learning, NLP and Generative AI.
 
 ## 👋 About Me
 
-I'm **Goutham Potu**, an AI/ML-focused Computer Science graduate interested in building practical solutions using **Python, Machine Learning, Deep Learning, NLP and Generative AI**.
+I'm **Goutham Potu**, a Computer Science graduate focused on **Artificial Intelligence and Machine Learning**.
 
-My projects cover different areas of AI/ML, including predictive modeling, customer segmentation and LLM-powered applications using embeddings, semantic search and retrieval-based approaches.
+I enjoy building practical AI/ML applications using **Python, Machine Learning, Deep Learning, Natural Language Processing and Generative AI**.
 
-### What I Work With
+My projects include predictive modeling, customer segmentation, NLP applications, semantic search and LLM-powered applications using embeddings and retrieval-based approaches.
+
+### 🎯 What I Work With
 
 * 🤖 Machine Learning & Predictive Modeling
 * 🧠 Deep Learning
@@ -45,24 +47,24 @@ My projects cover different areas of AI/ML, including predictive modeling, custo
 * ✨ Generative AI & LLM Applications
 * 🔎 RAG, Embeddings & Semantic Search
 * 📊 Data Analysis & Feature Engineering
-* 🐍 Python & Data Processing
+* 🐍 Python
 * 🗄️ SQL
 
-I'm currently strengthening my **Python, ML fundamentals and AI application development skills**, with a focus on building projects that can be explained, tested and eventually deployed.
+I'm continuously strengthening my **Python, machine learning fundamentals and AI application development skills**, with a focus on building projects that are practical, explainable and useful.
 
-🎯 **Open to:** Entry-Level AI/ML Roles · Machine Learning Roles · Data Science Roles · AI Internships
+🎯 **Open to:** Entry-Level AI/ML Roles · Machine Learning Roles · Data Science Roles · AI/ML Internships
 
 <br/>
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
+### 💻 Programming & Development
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
 <br/><br/>
 
-**Python · SQL**
+**Python · SQL · Git · GitHub**
 
 ### 📊 Data Science & Machine Learning
 
@@ -84,9 +86,11 @@ I'm currently strengthening my **Python, ML fundamentals and AI application deve
 
 **LLMs · RAG · Vector Search · Embeddings · Prompt Engineering**
 
-### 🧰 Development Tools
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br/>
 
 **Streamlit · Git · GitHub · VS Code · Postman**
 
@@ -96,7 +100,7 @@ I'm currently strengthening my **Python, ML fundamentals and AI application deve
 
 ### 🤖 AI Resume Screening & Job Matching
 
-An AI-powered application that analyzes resumes against job descriptions using document processing, embeddings, semantic retrieval and LLM-based evaluation.
+An AI-powered application that analyzes resumes against job descriptions using **document processing, embeddings, semantic retrieval and LLM-based evaluation**.
 
 **Technologies:** Python · LangChain · FAISS · OpenAI · Embeddings · Streamlit · NLP
 
@@ -108,7 +112,7 @@ An AI-powered application that analyzes resumes against job descriptions using d
 
 ### 🧠 Infectious Disease Risk Prediction
 
-Machine learning and deep learning project focused on predicting infectious disease risk using structured data, data preprocessing, feature engineering and predictive modeling.
+A machine learning and deep learning project focused on **infectious disease risk prediction** using structured data, data preprocessing, feature engineering and predictive modeling.
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn · Deep Learning
 
@@ -120,11 +124,11 @@ Machine learning and deep learning project focused on predicting infectious dise
 
 ### 📊 Customer Segmentation
 
-Machine learning project focused on analyzing customer data and identifying meaningful customer segments using data analysis and clustering techniques.
+A machine learning project focused on analyzing customer data and identifying meaningful customer segments using **data analysis and clustering techniques**.
 
 **Technologies:** Python · SQL · Pandas · Scikit-learn · Machine Learning
 
-**Key Concepts:** Exploratory Data Analysis · SQL Analysis · Feature Engineering · Clustering · Business Insights
+**Key Concepts:** Exploratory Data Analysis · Feature Engineering · Clustering · Customer Insights
 
 🔗 **[View Repository](https://github.com/gouthampotu/REPLACE_WITH_CUSTOMER_SEGMENTATION_REPOSITORY)**
 
@@ -132,7 +136,7 @@ Machine learning project focused on analyzing customer data and identifying mean
 
 ## 📚 Other AI & NLP Projects
 
-Alongside my flagship projects, I have worked on smaller AI/NLP projects and experiments covering:
+I have also worked on hands-on AI and NLP projects covering:
 
 * Named Entity Recognition
 * Text Classification
@@ -145,7 +149,7 @@ Alongside my flagship projects, I have worked on smaller AI/NLP projects and exp
 * Sentence Transformers
 * Text Processing
 
-These projects represent hands-on experimentation and learning across different areas of NLP and AI.
+These projects represent practical experimentation and learning across different areas of **NLP, Machine Learning and AI**.
 
 <br/>
 
