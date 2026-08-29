@@ -37,18 +37,18 @@ I'm **Goutham Potu**, a Computer Science graduate focused on **Artificial Intell
 
 I enjoy building practical AI/ML applications using **Python, Machine Learning, Deep Learning, Natural Language Processing and Generative AI**.
 
-My projects include predictive modeling, customer segmentation, NLP applications, semantic search and LLM-powered applications using embeddings and retrieval-based approaches.
+My projects include predictive modeling, fraud detection, NLP applications, semantic search and LLM-powered applications using embeddings and retrieval-based approaches.
 
 ### 🎯 What I Work With
 
-* 🤖 Machine Learning & Predictive Modeling
-* 🧠 Deep Learning
-* 📝 Natural Language Processing
-* ✨ Generative AI & LLM Applications
-* 🔎 RAG, Embeddings & Semantic Search
-* 📊 Data Analysis & Feature Engineering
-* 🐍 Python
-* 🗄️ SQL
+- 🤖 Machine Learning & Predictive Modeling
+- 🧠 Deep Learning
+- 📝 Natural Language Processing
+- ✨ Generative AI & LLM Applications
+- 🔎 RAG, Embeddings & Semantic Search
+- 📊 Data Analysis & Feature Engineering
+- 🐍 Python
+- 🗄️ SQL
 
 I'm continuously strengthening my **Python, machine learning fundamentals and AI application development skills**, with a focus on building projects that are practical, explainable and useful.
 
@@ -106,31 +106,31 @@ An AI-powered application that analyzes resumes against job descriptions using *
 
 **Key Concepts:** Document Processing · Text Chunking · Vector Search · Retrieval · LLM Evaluation
 
-🔗 **[View Repository](https://github.com/gouthampotu/Resume_Screening_Bot)**
+🔗 **[View Repository](https://github.com/gouthampotu/MINI-PROJECT)**
 
 ---
 
-### 🧠 Infectious Disease Risk Prediction
+### 💳 Credit Card Fraud Detection
 
-A machine learning and deep learning project focused on **infectious disease risk prediction** using structured data, data preprocessing, feature engineering and predictive modeling.
+A machine learning project focused on identifying potentially fraudulent credit card transactions using data preprocessing, feature analysis and predictive modeling.
 
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · Deep Learning
+**Technologies:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
 
-**Key Concepts:** Data Preprocessing · Feature Engineering · Model Development · Model Evaluation
+**Key Concepts:** Data Preprocessing · Feature Engineering · Classification · Model Evaluation · Fraud Detection
 
-🔗 **[View Repository](https://github.com/gouthampotu/REPLACE_WITH_INFECTIOUS_DISEASE_REPOSITORY)**
+🔗 **[View Repository](https://github.com/gouthampotu/Credit_Card_Fraud_Detection)**
 
 ---
 
-### 📊 Customer Segmentation
+### 🔎 Semantic Search
 
-A machine learning project focused on analyzing customer data and identifying meaningful customer segments using **data analysis and clustering techniques**.
+A Natural Language Processing project focused on finding semantically similar content using text representations and similarity-based search techniques.
 
-**Technologies:** Python · SQL · Pandas · Scikit-learn · Machine Learning
+**Technologies:** Python · NLP · Embeddings · Sentence Transformers · Semantic Search
 
-**Key Concepts:** Exploratory Data Analysis · Feature Engineering · Clustering · Customer Insights
+**Key Concepts:** Text Representation · Embeddings · Similarity Search · NLP · Information Retrieval
 
-🔗 **[View Repository](https://github.com/gouthampotu/REPLACE_WITH_CUSTOMER_SEGMENTATION_REPOSITORY)**
+🔗 **[View Repository](https://github.com/gouthampotu/Semantic_search)**
 
 <br/>
 
@@ -138,16 +138,16 @@ A machine learning project focused on analyzing customer data and identifying me
 
 I have also worked on hands-on AI and NLP projects covering:
 
-* Named Entity Recognition
-* Text Classification
-* Zero-Shot Classification
-* Question Answering
-* Text Summarization
-* Text Generation
-* Sentiment Analysis
-* Semantic Search
-* Sentence Transformers
-* Text Processing
+- Named Entity Recognition
+- Text Classification
+- Zero-Shot Classification
+- Question Answering
+- Text Summarization
+- Text Generation
+- Sentiment Analysis
+- Semantic Search
+- Sentence Transformers
+- Text Processing
 
 These projects represent practical experimentation and learning across different areas of **NLP, Machine Learning and AI**.
 
@@ -155,13 +155,13 @@ These projects represent practical experimentation and learning across different
 
 ## 🌱 Currently Learning
 
-* 🐍 Advanced Python & Problem Solving
-* ⚡ FastAPI
-* 🐳 Docker
-* 🚀 ML Model Deployment
-* ☁️ Cloud Deployment
-* 🧪 Testing for AI/ML Applications
-* 🏗️ Production-oriented AI/ML Engineering
+- 🐍 Advanced Python & Problem Solving
+- ⚡ FastAPI
+- 🐳 Docker
+- 🚀 ML Model Deployment
+- ☁️ Cloud Deployment
+- 🧪 Testing for AI/ML Applications
+- 🏗️ Production-oriented AI/ML Engineering
 
 <br/>
 
