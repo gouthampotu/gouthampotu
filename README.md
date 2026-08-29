@@ -22,8 +22,9 @@
 
 <p>
 <i>
-AI/ML fresher focused on building practical applications with Python,
-Machine Learning, Deep Learning, NLP and Generative AI.
+AI/ML Engineer (Fresher) building end-to-end machine learning and generative AI
+applications — from data preprocessing and model evaluation to LLM-powered
+retrieval systems.
 </i>
 </p>
 
@@ -33,24 +34,11 @@ Machine Learning, Deep Learning, NLP and Generative AI.
 
 ## 👋 About Me
 
-I'm **Goutham Potu**, a Computer Science graduate focused on **Artificial Intelligence and Machine Learning**.
+I'm **Goutham Potu**, a Computer Science graduate specializing in **Machine Learning and Generative AI**.
 
-I enjoy building practical AI/ML applications using **Python, Machine Learning, Deep Learning, Natural Language Processing and Generative AI**.
+I build practical, end-to-end AI/ML applications — not just notebooks. My work spans **classical ML for predictive modeling and fraud detection**, **NLP for text understanding and semantic search**, and **GenAI/RAG systems** that combine embeddings, vector retrieval and LLM reasoning to solve real problems.
 
-My projects include predictive modeling, fraud detection, NLP applications, semantic search and LLM-powered applications using embeddings and retrieval-based approaches.
-
-### 🎯 What I Work With
-
-- 🤖 Machine Learning & Predictive Modeling
-- 🧠 Deep Learning
-- 📝 Natural Language Processing
-- ✨ Generative AI & LLM Applications
-- 🔎 RAG, Embeddings & Semantic Search
-- 📊 Data Analysis & Feature Engineering
-- 🐍 Python
-- 🗄️ SQL
-
-I'm continuously strengthening my **Python, machine learning fundamentals and AI application development skills**, with a focus on building projects that are practical, explainable and useful.
+I care about writing code I can explain and defend line by line — every project below is something I built, understand deeply, and can walk through in an interview.
 
 🎯 **Open to:** Entry-Level AI/ML Roles · Machine Learning Roles · Data Science Roles · AI/ML Internships
 
@@ -58,53 +46,51 @@ I'm continuously strengthening my **Python, machine learning fundamentals and AI
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Development
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-<br/><br/>
+**Python · SQL**
 
-**Python · SQL · Git · GitHub**
-
-### 📊 Data Science & Machine Learning
+### 📦 Libraries & Frameworks
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-**Machine Learning · Data Preprocessing · Feature Engineering · Model Evaluation · Classification · Clustering**
-
-### 🧠 Deep Learning & NLP
-
-**Deep Learning · Natural Language Processing · Transformers · Text Classification · Semantic Search · Embeddings**
-
-### 🤖 Generative AI
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-**LLMs · RAG · Vector Search · Embeddings · Prompt Engineering**
+**NumPy · Pandas · Scikit-learn · LangChain · FAISS · OpenAI SDK · Sentence Transformers · Streamlit**
+
+### 🧠 ML / AI Concepts
+
+**Machine Learning · Deep Learning · Natural Language Processing · Feature Engineering · Model Evaluation · Classification · Clustering · Embeddings · Retrieval-Augmented Generation (RAG) · Vector Search · Prompt Engineering**
+
+### 🗄️ Databases
+
+**MySQL**
 
 ### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-<br/>
-
-**Streamlit · Git · GitHub · VS Code · Postman**
+**Git · GitHub · VS Code · Postman**
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
+
+These are my strongest, most complete projects — built end-to-end and ready to walk through in detail.
 
 ### 🤖 AI Resume Screening & Job Matching
 
-An AI-powered application that analyzes resumes against job descriptions using **document processing, embeddings, semantic retrieval and LLM-based evaluation**.
+An AI-powered application that evaluates resumes against job descriptions using document processing, embeddings, semantic retrieval and LLM-based evaluation. Produces an **AI Candidate–Job Match Score** with supporting reasoning, rather than a traditional ATS score.
 
 **Technologies:** Python · LangChain · FAISS · OpenAI · Embeddings · Streamlit · NLP
 
-**Key Concepts:** Document Processing · Text Chunking · Vector Search · Retrieval · LLM Evaluation
+**Key Concepts:** Document Processing · Text Chunking · Vector Search · Retrieval · LLM-Based Evaluation
 
 🔗 **[View Repository](https://github.com/gouthampotu/ai-resume-screening-bot)**
 
@@ -112,7 +98,7 @@ An AI-powered application that analyzes resumes against job descriptions using *
 
 ### 💳 Credit Card Fraud Detection
 
-A machine learning project focused on identifying potentially fraudulent credit card transactions using data preprocessing, feature analysis and predictive modeling.
+A machine learning project identifying potentially fraudulent credit card transactions through data preprocessing, feature analysis and predictive modeling on an imbalanced dataset.
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
 
@@ -122,21 +108,27 @@ A machine learning project focused on identifying potentially fraudulent credit 
 
 ---
 
-### 🔎 Semantic Search
+### 🔎 Semantic Search Engine
 
-A Natural Language Processing project focused on finding semantically similar content using text representations and similarity-based search techniques.
+An NLP project that retrieves semantically similar content using dense text representations and similarity-based search, rather than keyword matching.
 
 **Technologies:** Python · NLP · Embeddings · Sentence Transformers · Semantic Search
 
-**Key Concepts:** Text Representation · Embeddings · Similarity Search · NLP · Information Retrieval
+**Key Concepts:** Text Representation · Embeddings · Similarity Search · Information Retrieval
 
 🔗 **[View Repository](https://github.com/gouthampotu/Semantic_search)**
 
+---
+
+### 🏗️ Coming Soon: Deployed ML/AI Application
+
+Currently building a fourth flagship project — an ML/AI application deployed with **FastAPI, Docker and cloud hosting** — to demonstrate taking a model beyond a notebook into a served, production-style application.
+
 <br/>
 
-## 📚 Other AI & NLP Projects
+## 📚 Other AI & NLP Practice Projects
 
-I have also worked on hands-on AI and NLP projects covering:
+Smaller, focused exercises built while learning core NLP and AI concepts — kept separate from the flagship projects above:
 
 - Named Entity Recognition
 - Text Classification
@@ -145,11 +137,7 @@ I have also worked on hands-on AI and NLP projects covering:
 - Text Summarization
 - Text Generation
 - Sentiment Analysis
-- Semantic Search
-- Sentence Transformers
-- Text Processing
-
-These projects represent practical experimentation and learning across different areas of **NLP, Machine Learning and AI**.
+- Sentence Transformers Experiments
 
 <br/>
 
@@ -161,7 +149,7 @@ These projects represent practical experimentation and learning across different
 - 🚀 ML Model Deployment
 - ☁️ Cloud Deployment
 - 🧪 Testing for AI/ML Applications
-- 🏗️ Production-oriented AI/ML Engineering
+- 🏗️ Production-Oriented AI/ML Engineering
 
 <br/>
 
