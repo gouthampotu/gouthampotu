@@ -106,7 +106,7 @@ An AI-powered application that analyzes resumes against job descriptions using *
 
 **Key Concepts:** Document Processing · Text Chunking · Vector Search · Retrieval · LLM Evaluation
 
-🔗 **[View Repository](https://github.com/gouthampotu/MINI-PROJECT)**
+🔗 **[View Repository](https://github.com/gouthampotu/ai-resume-screening-bot)**
 
 ---
 
